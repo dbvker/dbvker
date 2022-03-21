@@ -70,4 +70,4 @@
 
 
 ## Github Stats  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dbvker&hide_border=true&layout=compact" align="left" />  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dbvker&hide_border=true&layout=compact" unselectable="on" align="left" />  
