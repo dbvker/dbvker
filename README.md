@@ -17,7 +17,7 @@
 
 
 ## My Skill Set  
-<table border="0"><tr><td valign="top" width="33%">
+<table border="0"><tr><td valign="top" width="33%" border="0">
 
 
 
@@ -65,10 +65,10 @@
 ## Connect with me  
 <a href="https://github.com/dbvker" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
+</a> 
 <a href="https://dev.to/dylanmbaker" target="_blank">
 <img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
-</a>
+</a> 
 <a href="https://linkedin.com/in/dylanmbaker" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
