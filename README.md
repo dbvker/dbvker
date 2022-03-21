@@ -1,20 +1,12 @@
 # <div align="center">Hi 👋, I'm Dylan</div>  
   
 
-- 🌱 I’m currently learning React and Node.js  
-  
+- 🌱 I’m currently learning <b>React</b> and <b>Node.js</b>
+- 💬 Ask me about <b>React</b> and <b>Node.js</b>
+- 📫 How to reach me: [dylanmbaker@yahoo.com](mailto:dylanmbaker@yahoo.com) | [LinkedIn](https://www.linkedin.com/in/dylanmbaker/)
+- ⚡ Fun fact: <b>I'm an identical twin</b>
 
-- 💬 Ask me about React and Node.js  
-  
-
-- 📫 How to reach me: [dylanmbaker@yahoo.com](mailto:dylanmbaker@yahoo.com) | [LinkedIn](https://www.linkedin.com/in/dylanmbaker/)  
-  
-
-- ⚡ Fun fact I'm an identical twin  
-  
-
-<br/>  
-
+<br/>
 
 ## My Skill Set  
 <table border="0"><tr><td valign="top" width="33%" border="0">
