@@ -1,7 +1,7 @@
 # <div align="center">Hi 👋, I'm Dylan</div>  
   
 
-- 🌱 I’m currently learning <b>React</b> and <b>Node.js</b>
+- 🌱 I’m currently learning <b>React</b>, <b>Node.js</b>, and <b>Python</b>
 - 💬 Ask me about <b>React</b> and <b>Node.js</b>
 - 📫 How to reach me: [dylanmbaker@yahoo.com](mailto:dylanmbaker@yahoo.com) | [LinkedIn](https://www.linkedin.com/in/dylanmbaker/)
 - ⚡ Fun fact: <b>I'm an identical twin</b>
