@@ -68,4 +68,4 @@
 <br/>  
 
 ## Github Stats  
-<a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dbvker&hide_border=true&layout=compact" align="left" /></a>
+<a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dbvker&hide_border=false&layout=compact" align="left" /></a>
